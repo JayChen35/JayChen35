@@ -1,11 +1,12 @@
 ### Hey there! 👋
 
 I'm Jason, an undergraduate studying Aerospace Engineering and Computer Science.
-- ⚡ I'm fascinated with commercial spaceflight, and how exploration of the Moon, Mars, and beyond can help everyone's lives here on Earth.
-- 🔭 My main interests are rocket propulsion systems, reinforcement learning, and flight software design. 
-- 🌱 Please feel free to reach out to me at my links.
+⚡ I'm fascinated with commercial spaceflight, and how exploration of the Moon, Mars, and beyond can improve everyone's lives.
+🔭 My main interests include rocket propulsion systems, reinforcement learning, and flight software design. 
+🌱 Please feel free to reach out to me at my links.
 
 Cheers! 🍻
+
 ![](https://komarev.com/ghpvc/?username=JayChen35&color=ff69b4&style=plastic)
 
 <!--
