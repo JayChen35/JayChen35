@@ -6,9 +6,6 @@ I'm Jason, an undergraduate studying Aerospace Engineering and Computer Science.
 
 🔭 My main interests include rocket propulsion systems, reinforcement learning, and flight software design. 
 
-🌱 Please feel free to reach out to me at my links.
-
-
 Cheers! 🍻
 
 ![](https://komarev.com/ghpvc/?username=JayChen35&color=ff69b4&style=plastic)
