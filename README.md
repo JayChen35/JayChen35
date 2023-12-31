@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 I'm Jason, an undergraduate studying Aerospace Engineering and Computer Science.
-- I'm fascinated with commercial spaceflight, and how exploration of the Moon, Mars, and beyond can improve life on Earth.
+- I'm fascinated with human spaceflight, and how exploration of the Moon, Mars, and beyond can improve life for everyone on Earth.
 - My interests include rocket propulsion systems, reinforcement learning, and flight software design. 
 
 Cheers! 🍻
